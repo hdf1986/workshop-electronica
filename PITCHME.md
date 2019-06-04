@@ -2,7 +2,7 @@ Workshop de electronica
 
 ---
 
-## Let's build that dream team!
+## A armar equipos!
 
 ![](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/source.gif)
 
@@ -40,11 +40,20 @@ https://observablehq.com/@hdf1986/workshop
 ---
 ## Nuestro primer blink!
 ---
+## Utilizando un led externo
+---
 ## Fade
 
 ---
-## Señales analogicas y digitales
+## Tipos de señales
 
+---
+## Analogicas
+![](assets/analog_signal.png)
+
+---
+## Digitales
+![](assets/digital_signal.png)
 
 ---
 ## Sensores!

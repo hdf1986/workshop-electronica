@@ -17,7 +17,7 @@ const int DEVICE_NUMBER = 1;
 
 
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(D4, OUTPUT);
   Serial.begin(115200);
 
   // In case our configuration portal needs password, we can add it like this:
@@ -42,6 +42,6 @@ void loop() {
   bool state = http.getString().equals("false");
   http.end();
 
-  digitalWrite(LED_BUILTIN, state);
-  delay(300);
+  digitalWrite(D4, state);
+  delay(400);
 }
