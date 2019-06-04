@@ -1,14 +1,52 @@
 # workshop-electronica
 
-- [ ] Blink
-- [ ] Fade
+- [x] Blink
+- [x] Fade
 - [ ] Sensores
   - [ ] Analogico (Luz/humedad)
-  - [ ] Digital (Luz/humedad)
+  - [ ] Digital (Luz/humedad/Boton)
   - [x] Digital 1wire(Temperatura)
-- [ ] Wifi
-  - [ ] Slack
-  - [ ] ON/OFF
-  - [ ] Modo access point
-  - [ ] Modo access point captive
-  - [ ] WifiManager
+- [X] Wifi
+  - [X] ON/OFFx
+  - [x] Slack
+  - [x] WifiManager
+  - [x] Modo access point
+  - [x] Modo access point captive
+
+# Content
+
+- Leer circuitos
+  - Explicacion de simbologia basica
+  - no hay circuito
+- Ley de ohm basica
+  - grafico
+  - Protoboard
+    - Grafico de conexiones
+  - led + resistencia
+    - Grafico de Protoboard
+  - leds explicacion
+- soft arduino
+  - instalacion + drivers
+- nodemcu
+  - blink
+    - Grafico de Protoboard
+  - fade
+    - Grafico de Protoboard
+- sensores
+  - digital boton
+    - Grafico de Protoboard
+  - digital luz/humedad
+    - Grafico de Protoboard
+  - analogico luz/humedad
+    - Grafico de Protoboard
+  - digital 1wire
+    - Grafico de Protoboard
+- wifi
+  - WifiManager
+  - ON/OFF
+    - Grafico de Protoboard
+  - Slack
+  - Modo access point
+  - Modo access point captivo
+- Servo
+  - Grafico de Protoboard
