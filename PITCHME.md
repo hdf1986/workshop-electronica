@@ -79,3 +79,7 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ### Modo access point captivo
+
+---
+
+## Gracias! ⚡
