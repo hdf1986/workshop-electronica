@@ -69,7 +69,7 @@ https://observablehq.com/@hdf1986/workshop
 
 
 ---
-### Sensor digital de temperatura
+### Sensor digital de temperatura (1wire)
 
 ---
 ### WI-FI y otras yerbas
