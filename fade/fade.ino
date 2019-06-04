@@ -1,5 +1,5 @@
 
-int ledPin = D0;
+int ledPin = D4;
 void setup() {
   // There's no need to call pinMode with analogWrite. For more info check https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
 }

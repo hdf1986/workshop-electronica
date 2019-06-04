@@ -15,12 +15,12 @@ Workshop de electronica
 
 ---
 
-![](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/source.gif)
+![](assets/basic_led.png)
 
 ---
 ## Ley de ohm
 
-![](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/source.gif)
+![](assets/ohm.jpg)
 
 
 ---
