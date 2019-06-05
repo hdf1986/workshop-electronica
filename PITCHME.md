@@ -29,6 +29,7 @@ Workshop de electronica
 ---
 
 ## Hello led
+![](assets/hello_led.png)
 
 ---
 ## Arduino + NodeMCU = <3
@@ -45,6 +46,7 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ## Fade
+![](assets/led_externo.png)
 
 ---
 ## Tipos de señales
@@ -62,6 +64,7 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ### Botón
+![](assets/boton_led.png)
 
 ---
 ### Sensor digital (Humedad/Luz)
@@ -81,6 +84,7 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ### ON/OFF
+![](assets/led_externo.png)
 
 ---
 ### Slack
