@@ -68,13 +68,15 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ### Sensor digital (Humedad/Luz)
+![](assets/sensor_digital.png)
 
 ---
 ### Sensor analógico (Humedad/Luz)
-
+![](assets/sensor_analogic.png)
 
 ---
 ### Sensor digital de temperatura (1wire)
+![](assets/sensor_digital.png)
 
 ---
 ### WI-FI y otras yerbas
@@ -94,6 +96,10 @@ https://observablehq.com/@hdf1986/workshop
 
 ---
 ### Modo access point captivo
+
+---
+### Servo motores
+![](assets/servo.png)
 
 ---
 
