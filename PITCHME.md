@@ -41,6 +41,8 @@ https://observablehq.com/@hdf1986/workshop
 ## Nuestro primer blink!
 ---
 ## Utilizando un led externo
+![](assets/led_fritzing.png)
+
 ---
 ## Fade
 
