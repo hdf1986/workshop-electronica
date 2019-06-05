@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h> 
+#include <ESP8266WiFi.h>
 
 #include <DNSServer.h>
 #include <ESP8266mDNS.h>
@@ -6,9 +6,7 @@
 #include <WiFiManager.h> // For more information check https://github.com/tzapu/WiFiManager
 WiFiManager wifiManager;
 
-ESP8266WebServer server(80); 
-
-const int led = 13;
+ESP8266WebServer server(80);
 
 void handleRoot() {
   server.send(200, "text/plain", "hello from esp8266!");
@@ -34,7 +32,7 @@ void setup() {
   // In case our configuration portal needs password, we can add it like this:
   // wifiManager.autoConnect("AP-NAME", "AP-PASSWORD");
   wifiManager.autoConnect("AP-NAME");
-  
+
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");

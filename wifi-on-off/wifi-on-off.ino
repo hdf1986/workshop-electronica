@@ -10,7 +10,6 @@
 WiFiManager wifiManager;
 HTTPClient http;
 
-const int SERIAL_BAUD_RATE = 115200;
 const int DEVICE_NUMBER = 1;
 
 #define FINGERPRINT "08:3B:71:72:02:43:6E:CA:ED:42:86:93:BA:7E:DF:81:C4:BC:62:30"
@@ -36,7 +35,7 @@ void setup() {
 
 void loop() {
   MDNS.update();
-  
+
   http.begin(String("https://workshop-electronica.herokuapp.com/devices/") + DEVICE_NUMBER + "/state", FINGERPRINT);
   http.GET();
   bool state = http.getString().equals("false");
