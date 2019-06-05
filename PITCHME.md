@@ -8,7 +8,7 @@ Workshop de electronica
 
 ---
 
-## ¿Como leer circuitos electronicos?
+## ¿Cómo leer circuitos electrónicos?
 
 ![](https://media.giphy.com/media/lM86pZcDxfx5e/giphy.gif)
 
@@ -50,7 +50,7 @@ https://observablehq.com/@hdf1986/workshop
 ## Tipos de señales
 
 ---
-## Analogicas
+## Analógicas
 ![](assets/analog_signal.png)
 
 ---
@@ -61,13 +61,13 @@ https://observablehq.com/@hdf1986/workshop
 ## Sensores!
 
 ---
-### Boton
+### Botón
 
 ---
 ### Sensor digital (Humedad/Luz)
 
 ---
-### Sensor analogico (Humedad/Luz)
+### Sensor analógico (Humedad/Luz)
 
 
 ---
