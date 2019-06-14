@@ -34,6 +34,7 @@ void setup() {
   HTTPClient http;
 
   http.begin("https://hooks.slack.com/services/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", FINGERPRINT);
+  // In case you want to create a hook, look for the webhook application in your slack workspace
   http.addHeader("Content-Type", "application/json");
   http.POST(String("") + "{\"text\": \"Dispositivo #" + DEVICE_NUMBER +  "\"}");
   Serial.println(http.getString());
